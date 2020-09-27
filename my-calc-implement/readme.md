@@ -2,7 +2,7 @@
 #Using my own package
 
 
-Implement the package : [go_calc_package](github.com/davidramos-om/go_calc_package)
+Implement the package : [go_calc_package](https://github.com/davidramos-om/go_calc_package)
 
 1. Start a new project
   ```
